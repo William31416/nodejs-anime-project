@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "genre": "Shonen",
+    "studioId": 1
+  },
+  {
+    "id": 2,
+    "title": "Attack on Titan",
+    "genre": "Action",
+    "studioId": 2
+  },
+  {
+    "id": 3,
+    "title": "My Hero Academia",
+    "genre": "Superhero",
+    "studioId": 3
+  },
+  {
+    "id": 4,
+    "title": "One Piece",
+    "genre": "Adventure",
+    "studioId": 4
+  },
+  {
+    "id": 5,
+    "title": "Death Note",
+    "genre": "Thriller",
+    "studioId": 5
+  }
+]

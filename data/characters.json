@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto Uzumaki",
+    "animeId": 1
+  },
+  {
+    "id": 2,
+    "name": "Eren Yeager",
+    "animeId": 2
+  },
+  {
+    "id": 3,
+    "name": "Izuku Midoriya",
+    "animeId": 3
+  },
+  {
+    "id": 4,
+    "name": "Monkey D. Luffy",
+    "animeId": 4
+  },
+  {
+    "id": 5,
+    "name": "Light Yagami",
+    "animeId": 5
+  }
+]
